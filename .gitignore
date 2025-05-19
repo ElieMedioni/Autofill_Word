@@ -1,6 +1,6 @@
 Output/
 Data/
-venv/
+.venv/
 
 *.pyc
 *.pyo
