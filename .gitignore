@@ -1,0 +1,17 @@
+Output/
+Data/
+venv/
+
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.bak
+*.csv
+*.tsv
+*.xlsx
+*.zip
+*.pt
+*.pkl
+*.h5
+*.onnx
